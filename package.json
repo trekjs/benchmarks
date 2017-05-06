@@ -1,0 +1,17 @@
+{
+  "name": "trek-engine-benchmarks",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Web Frameworks Benchmarks",
+  "scripts": {
+    "bench": "make battle"
+  },
+  "dependencies": {
+    "bluebird": "3",
+    "express": "4",
+    "koa": "2",
+    "restify": "5.0.0-beta-1",
+    "toa": "2",
+    "trek-engine": "1"
+  }
+}
