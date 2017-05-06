@@ -666,7 +666,7 @@ toa@2:
     type-is "~1.6.15"
     vary "~1.1.1"
 
-trek-engine@^1.0.0:
+trek-engine@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/trek-engine/-/trek-engine-1.0.0.tgz#23e0df108d5ebd1f9f40755e7b8c5b31a568dae0"
   dependencies:
