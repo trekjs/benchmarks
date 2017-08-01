@@ -10,8 +10,8 @@
     "bluebird": "3",
     "express": "4",
     "koa": "2",
-    "restify": "5.0.0-beta-1",
-    "rill": "^5.0.8",
+    "restify": "5",
+    "rill": "5",
     "toa": "2",
     "trek-engine": "1"
   }
