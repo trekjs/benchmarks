@@ -2,11 +2,12 @@
 
 | Framework | Version |  
 | --- | --- |  
-| [Express][] | 4.14.1 |  
-| [Koa][] | 2.0.1 |  
-| [Toa][] | 2.6.1 |  
-| [Restify][] | 5.0.0-beta-1 |  
-| [Trek Engine][] | 1.0.0 |  
+| [Express][] | 4.15.4 |  
+| [Koa][] | 2.3.0 |  
+| [Toa][] | 3.0.4 |  
+| [Restify][] | 5.2.0 |  
+| [Rill][] | 5.0.15 |  
+| [Trek Engine][] | 1.0.3 |  
 
 
 ## Frameworks' Battle! :fire: :collision:
@@ -518,6 +519,7 @@ Bytes/Sec    1.32 MB 109.86 kB 1.44 MB
 [wrk]: https://github.com/wg/wrk
 [autocannon]: https://github.com/mcollina/autocannon
 [Express]: https://github.com/expressjs/express
-[Koa]: https://github.com/koajs/koa/tree/v2.x
+[Koa]: https://github.com/koajs/koa
 [Toa]: https://github.com/toajs/toa
 [Restify]: https://github.com/restify/node-restify
+[Rill]: https://github.com/rill-js/rill
