@@ -2,12 +2,12 @@
 
 | Framework | Version |  
 | --- | --- |  
-| [Express][] | 4.15.4 |  
+| [Express][] | 4.16.1 |  
 | [Koa][] | 2.3.0 |  
-| [Toa][] | 3.0.4 |  
-| [Restify][] | 5.2.0 |  
+| [Toa][] | 3.0.7 |  
+| [Restify][] | 6.0.1 |  
 | [Rill][] | 5.0.15 |  
-| [Trek Engine][] | 1.0.3 |  
+| [Trek Engine][] | 1.0.5 |  
 
 
 ## Frameworks' Battle! :fire: :collision:
