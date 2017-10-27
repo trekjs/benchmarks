@@ -2,11 +2,11 @@
 
 | Framework | Version |  
 | --- | --- |  
-| [Express][] | 4.16.1 |  
+| [Express][] | 4.16.2 |  
 | [Koa][] | 2.3.0 |  
-| [Toa][] | 3.0.7 |  
-| [Restify][] | 6.0.1 |  
-| [Rill][] | 5.0.15 |  
+| [Toa][] | 3.0.8 |  
+| [Restify][] | 6.2.3 |  
+| [Rill][] | 6.0.2 |  
 | [Trek Engine][] | 1.0.5 |  
 
 

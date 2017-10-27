@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "bluebird": "3.5.1",
-    "express": "4.16.1",
+    "express": "4.16.2",
     "koa": "2.3.0",
-    "restify": "6.0.1",
-    "rill": "5.0.15",
-    "toa": "3.0.7",
+    "restify": "6.2.3",
+    "rill": "6.0.2",
+    "toa": "3.0.8",
     "trek-engine": "1.0.5"
   }
 }

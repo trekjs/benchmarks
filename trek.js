@@ -25,4 +25,6 @@ app.use(({ res }, next) => next().then(() => {
   res.body = body
 }))
 
+app.on('error', console.error)
+
 app.run(7004)
